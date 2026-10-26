@@ -1,6 +1,6 @@
 ### Hi, I'm Henry Hans
 
-I'm a Linux, cloud infrastructure, and AI engineering practitioner (MCSE / RHCE / OCP / CKA) with many years of experience in enterprise Linux, MySQL, AWS, Kubernetes, and cloud-native technologies, as well as large language model deployment and AI agent development. I write hands-on books about running Linux servers, where every command is tested on real machines before it goes into print.
+I'm a Linux, cloud infrastructure, and AI engineering practitioner (RHCE / OCP / CKA) with many years of experience in enterprise Linux, MySQL, AWS, Kubernetes, and cloud-native technologies, as well as large language model deployment and AI agent development. I write hands-on books about running Linux servers, where every command is tested on real machines before it goes into print.
 
 **Books**
 
